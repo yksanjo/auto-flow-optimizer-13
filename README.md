@@ -1,5 +1,12 @@
 # auto-flow-optimizer-13
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/auto-flow-optimizer-13/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/auto-flow-optimizer-13/actions)
+![License](https://img.shields.io/github/license/yksanjo/auto-flow-optimizer-13)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/auto-flow-optimizer-13)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/auto-flow-optimizer-13)
+
 ## Detailed Description
 
 auto-flow-optimizer-13 is maintained as an industry-grade software project with production-ready engineering practices.  
